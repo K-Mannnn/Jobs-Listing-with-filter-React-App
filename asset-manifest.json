@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Jobs-Listing-with-filter-React-App/static/css/main.959a4eeb.chunk.css",
+    "main.js": "/Jobs-Listing-with-filter-React-App/static/js/main.144c22ce.chunk.js",
+    "main.js.map": "/Jobs-Listing-with-filter-React-App/static/js/main.144c22ce.chunk.js.map",
+    "runtime-main.js": "/Jobs-Listing-with-filter-React-App/static/js/runtime-main.d4a89b6d.js",
+    "runtime-main.js.map": "/Jobs-Listing-with-filter-React-App/static/js/runtime-main.d4a89b6d.js.map",
+    "static/js/2.90e7e3f5.chunk.js": "/Jobs-Listing-with-filter-React-App/static/js/2.90e7e3f5.chunk.js",
+    "static/js/2.90e7e3f5.chunk.js.map": "/Jobs-Listing-with-filter-React-App/static/js/2.90e7e3f5.chunk.js.map",
+    "static/js/3.a0880efd.chunk.js": "/Jobs-Listing-with-filter-React-App/static/js/3.a0880efd.chunk.js",
+    "static/js/3.a0880efd.chunk.js.map": "/Jobs-Listing-with-filter-React-App/static/js/3.a0880efd.chunk.js.map",
+    "index.html": "/Jobs-Listing-with-filter-React-App/index.html",
+    "static/css/main.959a4eeb.chunk.css.map": "/Jobs-Listing-with-filter-React-App/static/css/main.959a4eeb.chunk.css.map",
+    "static/js/2.90e7e3f5.chunk.js.LICENSE.txt": "/Jobs-Listing-with-filter-React-App/static/js/2.90e7e3f5.chunk.js.LICENSE.txt",
+    "static/media/account.903d6cd0.svg": "/Jobs-Listing-with-filter-React-App/static/media/account.903d6cd0.svg",
+    "static/media/index.css": "/Jobs-Listing-with-filter-React-App/static/media/bg-header-mobile.9cb13612.svg",
+    "static/media/eyecam-co.0abb14e8.svg": "/Jobs-Listing-with-filter-React-App/static/media/eyecam-co.0abb14e8.svg",
+    "static/media/faceit.54a148ce.svg": "/Jobs-Listing-with-filter-React-App/static/media/faceit.54a148ce.svg",
+    "static/media/icon-remove.70c075ce.svg": "/Jobs-Listing-with-filter-React-App/static/media/icon-remove.70c075ce.svg",
+    "static/media/insure.4d535e7e.svg": "/Jobs-Listing-with-filter-React-App/static/media/insure.4d535e7e.svg",
+    "static/media/loop-studios.7778c957.svg": "/Jobs-Listing-with-filter-React-App/static/media/loop-studios.7778c957.svg",
+    "static/media/manage.5a528a96.svg": "/Jobs-Listing-with-filter-React-App/static/media/manage.5a528a96.svg",
+    "static/media/myhome.aaaaa430.svg": "/Jobs-Listing-with-filter-React-App/static/media/myhome.aaaaa430.svg",
+    "static/media/photosnap.5a867c13.svg": "/Jobs-Listing-with-filter-React-App/static/media/photosnap.5a867c13.svg",
+    "static/media/shortly.3c01b577.svg": "/Jobs-Listing-with-filter-React-App/static/media/shortly.3c01b577.svg",
+    "static/media/the-air-filter-company.9b55f644.svg": "/Jobs-Listing-with-filter-React-App/static/media/the-air-filter-company.9b55f644.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a89b6d.js",
+    "static/js/2.90e7e3f5.chunk.js",
+    "static/css/main.959a4eeb.chunk.css",
+    "static/js/main.144c22ce.chunk.js"
+  ]
+}
