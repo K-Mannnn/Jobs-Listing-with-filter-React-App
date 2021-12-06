@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Jobs-Listing-with-filter-React-App
 
-This is a solution to the Jobs-Listing-with-filter-React-App challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G/hub/url-shortening-api-landing-page-ItyijNMfu. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the Jobs-Listing-with-filter-React-App challenge on Frontend Mentor] (https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -34,7 +34,10 @@ Your users should be able to:
 
 ### Screenshot
 
-
+![screencapture-localhost-3000-2021-12-06-15_02_16](https://user-images.githubusercontent.com/67024458/144878839-7a22e40a-3274-43bc-8463-dff4d7d8a87e.png
+![screencapture-localhost-3000-2021-12-06-15_01_25](https://user-images.githubusercontent.com/67024458/144878852-b1b52b94-22ea-480f-8c3d-f9b53e72628d.png)
+![screencapture-localhost-3000-2021-12-06-15_01_05](https://user-images.githubusercontent.com/67024458/144878881-d8593a00-0c87-482d-933d-5c1be46c329e.png)
+)
 
 
 ## My process
