@@ -53,7 +53,7 @@ Your users should be able to:
 
 ### What I learned
 
-Continuing on my React.js and this turned out to be quite challeging for me to use React features to filter items in the ReactDOM. Gettin stuck sometimes is the best thing that can happen to someone, now I have thorough understanding some of the main React Hooks.  
+Continuing on my React.js journey and this turned out to be quite challeging for me to use React features to filter items in the ReactDOM. Gettin stuck sometimes is the best thing that can happen to someone, now I have thorough understanding some of the main React Hooks.  
 
 ## Acknowledgments
 
